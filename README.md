@@ -1,4 +1,4 @@
-# Algortimernes kompleksitet 
+# Algoritmernes kompleksitet 
 Datamatikerstudiet i Næstved, 2. semester, 2020
 
 Der er ikke noget mere irriterende, end langsomme it-systemer. Derfor vil vi som programmører tilstræbe altid at optimere vores algoritmer således, at de performer optimalt.
