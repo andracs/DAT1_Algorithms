@@ -59,10 +59,10 @@ public class SoegningsKlasse {
             }
             if (arr[index] > x) {
                 // Søg i venstre
-                index = x / 2;
+                index = index / 2;
             } else {
                 // Søg i højre
-                index = x + index / 2;
+                index = index + index / 2;
             }
             if (index < 1) {
                 return -1;
